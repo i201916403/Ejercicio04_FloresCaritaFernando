@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ejercicio04_FloresCaritaFernando</string>
+    <string name="txtmenu">Menú</string>
+    <string name="txt_menu_crud_alumno">Actualiza Alumno</string>
+</resources>
